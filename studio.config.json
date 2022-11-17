@@ -1,0 +1,28 @@
+{
+ "packages": {
+  "dir": "",
+  "menu": [
+   [
+    "TOKENS",
+    [
+     "color",
+     "tokens",
+     "new-lal8kbbc"
+    ]
+   ],
+   [
+    "COMPONENTS",
+    [
+     "button"
+    ]
+   ],
+   [
+    "INFRASTRUCTURE",
+    [
+     "doc-layout",
+     "sd-input"
+    ]
+   ]
+  ]
+ }
+}
